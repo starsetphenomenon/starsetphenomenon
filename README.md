@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Roman, a junior frontend engineer. freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
+### <div align="center">I'm Roman, a frontend engineer. freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 <br/>  
